@@ -1,0 +1,50 @@
+EID,TASK,PID,No.of Hours
+1,Review,1,8
+1,Review,2,8
+2,Review,3,8
+2,Review,1,8
+3,"Sent the mail to developer:
+
+
+-Need access of DB objects of CANVAS Feed.
+
+-Sent a gentle reminder for HEDEX_EDI_SFE: Data required in source and target for Reverse Engineering.
+
+-For providing us the Folder name of 'wf_schedule_hedex_edi_ent_person_exed_email'
+
+-Linux Script and Parameter File: wf_schedule_hedex_ent_to_sfe_feeds
+
+Created the JIRA Ticket:
+
+-Linux Script and Parameter File:
+ wf_schedule_hedex_ent_to_sfe_feeds
+.
+-Folder name of
+ 'wf_schedule_hedex_edi_ent_person_exed_email'
+
+-Need access of DB objects of
+CANVAS
+ Feed.
+
+
+",1,5 Hrs
+3,"Provide comments on the list of tables in ticket BCM-890 following a review 
+of the Data Flow Diagram (DFD), intended for the developer's reference.
+
+Develop an SQL script aimed at automating the process of script writing and testing, enhancing efficiency and accuracy in our workflow.
+
+
+
+
+
+Facilitate discussions and upkeep of a Word document detailing the Quarterly Business Review (QBR) for the Sage Migration Project, ensuring comprehensive documentation and effective project management.
+
+
+",3,3
+6,"I worked on Automation I completed the query for count checks in both scenarios: where
+dw_process_run_key
+is available in the table or where both columns,
+updated_key
+and
+created_key
+, are present. Additionally, I completed the query for aggregation in both scenarios.",3,8
